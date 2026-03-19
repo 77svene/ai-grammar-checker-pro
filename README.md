@@ -56,3 +56,13 @@ Unlock full access with our Pro plan.
 - **Cost:** $XX/month
 
 [**Upgrade Now**](#)
+
+## USE CASE
+
+Automate code review tasks instantly with AI-powered analysis. Free tier available (5 uses/day).
+
+## MONETIZATION
+
+Upgrade for unlimited access via Stripe checkout.
+
+[Upgrade Now](#checkout)
