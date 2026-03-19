@@ -39,3 +39,20 @@ Optimized for [Core Task], enabling users to [Key Benefit] efficiently.
 **Upgrade to Unlimited**
 - Unlock full access via **Stripe**.
 - No hidden fees or credit card requirements for trial.
+
+## Usage & Pricing
+
+### Use Case
+Designed to [insert specific function, e.g., generate code, analyze data, create content]. This tool helps you [insert primary benefit, e.g., automate workflows, reduce manual effort] with high-accuracy AI processing.
+
+### Free Tier
+- **Daily Limit:** 5 uses per day
+- **No credit card required**
+
+### Upgrade to Unlimited
+Unlock full access with our Pro plan.
+- **Benefit:** Unlimited daily uses + higher rate limits
+- **Payment:** Secure checkout via **Stripe**
+- **Cost:** $XX/month
+
+[**Upgrade Now**](#)
